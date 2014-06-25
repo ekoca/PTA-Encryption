@@ -1,4 +1,4 @@
-RNTPTAENCRYPTION 
+RNT PTA ENCRYPTION 
 ===
 
 The available encryption options in RNT are:
