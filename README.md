@@ -1,15 +1,6 @@
 RNT PTA ENCRYPTION 
 ===
 
-Oracle did not provide me any documentation and no sample codes on their support website. I was asked to resolve the issue and it was little bit pain due to lack of documentations. This is the reason why I checked in my solution into github.
-
-Here is all the details that I got from Oracle RNT:
-
-We can enable “ignore password” settings. If it is enabled, there is one mandatory step which is encrypting SSO string.
-In this URL, you need to involve your developer to change the SSO string it is generated.
-
-Currently, it is only base64 encoded; By enable “ignore password”, the string has to be base64 encode then encrypted.
-
 The available encryption options in RNT are:
 - PTA_ENCRYPTION_METHOD—This setting specifies the encryption method
 you want to use, and is blank by default. The options are des3, aes128, aes192, and
