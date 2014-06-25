@@ -16,6 +16,7 @@
 		//build the PTA table with all the REQUIRE_DISABLED customer data
 		$ptaDataArray = array(
 				'p_userid' => 'user_id',
+				// We enabled “ignore password” settings
 				'p_redirect' => true
 		);
 
