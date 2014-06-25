@@ -1,6 +1,6 @@
 <?php
 		/**
-		*   @author ekoca
+		*   	@author ekoca
 		*	MCRYPTL: aes128 CBC mode
 		*	Keygen : none
 		*	Padding: PKCS7
