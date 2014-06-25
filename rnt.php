@@ -5,6 +5,7 @@
 		*	Keygen : none
 		*	Padding: PKCS7
 		*	key    : yourPTAkey (Check your RNT admin)
+		* 	PASSWORD_REQUIRE_DISABLED
 		*/
  
 		const CONFIG_PROPERTY_RNT_URL = 'rnt_url';
@@ -12,7 +13,7 @@
 		const IV                      = "\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0\x0";
 	
 
-		//build the PTA table with all the REQUIRE_DISABLEDd customer data for the case a new CP Account needs to be created
+		//build the PTA table with all the REQUIRE_DISABLED customer data
 		$ptaDataArray = array(
 				'p_userid' => 'user_id',
 				'p_redirect' => true
