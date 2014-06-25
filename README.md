@@ -26,6 +26,6 @@ PTA string. The value is blank by default. (Do not include the value of
 PTA_SECRET_KEY in the string itself. The setting should be used only to encrypt the
 value sent.)
 
-I never use Oracle RNT admin panel before, I had to figure how to set up a secret key and enbale the "ignore password" option in the RNT admin panel... You may ask RNT support to do this but they will charce you if you don't figure out. After this, I was able to start coding to make this work! See the rnt.php...
+I never use Oracle RNT admin panel before, I had to figure how to set up a secret key and enbale the "ignore password" option in the RNT admin panel... You may ask RNT support to do this but they will cost you to do this for you. After this step, I was able to start coding to make this work! See the rnt.php...
 
 Hope this helps :)
