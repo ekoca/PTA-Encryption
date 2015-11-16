@@ -1,7 +1,9 @@
 RNT PTA ENCRYPTION 
 ===
 
-The available encryption options in RNT are:
+Per Oracle RNT documentation.
+
+The available encryption options in RNT are following:
 - PTA_ENCRYPTION_METHOD—This setting specifies the encryption method
 you want to use, and is blank by default. The options are des3, aes128, aes192, and
 aes256.
@@ -17,8 +19,8 @@ PTA string. The value is blank by default. (Do not include the value of
 PTA_SECRET_KEY in the string itself. The setting should be used only to encrypt the
 value sent.)
 
-I never use Oracle RNT admin panel and I never develop anything before for Oracle RNT. In RNT support website, there is no good source of documentation about available encryption options in RNT. 
+I am not a Oracle RNT developer. I never develop anything for RNT before and one day I have been asked to write a php script which authenticate our customer between our site to RNT support site.
 
-At the end, I figured out to make it work by myself since Oracle Support site was useless for this case.
+I did not know what is RNT even. So I googled the RNT support website, I found it. However, there is no good source of documentation about available encryption options in RNT. Nobody provide me an access to get the developer site. I read many comments to write this script and I was able to make it work so I am sharing this script if anyone needs it.
 
 Hope this helps :)
