@@ -52,5 +52,5 @@
 		$encrypted_data['decrypt'] = $decrypted;
 		//echo_array($encrypted_data);
 
-		header("location:http://rnturl.custhelp.com/ci/pta/login/redirect/home/p_li/" . $encrypted);
+		header("location:http://{RNT_URL}/ci/pta/login/redirect/home/p_li/" . $encrypted);
 ?>
