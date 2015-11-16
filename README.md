@@ -21,6 +21,8 @@ value sent.)
 
 I am not a Oracle RNT developer. I never develop anything for RNT before and one day I have been asked to write a php script which authenticate our customer between our site to RNT support site.
 
-I did not know what is RNT even. So I googled the RNT support website, I found it. However, there is no good source of documentation about available encryption options in RNT. Nobody provide me an access to get the developer site. I read many comments to write this script and I was able to make it work so I am sharing this script if anyone needs it.
+I did not know what Oracle RNT is even. So I googled the RNT support website, I found it. However, there is no good source of documentation about available encryption options in RNT. Nobody provide me an access to get the developer site. 
+
+I was stuck almost. Then I started to read many comments on RNT support pages. Finally, I was able to make this script worked so I am sharing this script if anyone needs it.
 
 Hope this helps :)
