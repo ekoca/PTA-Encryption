@@ -19,10 +19,6 @@ PTA string. The value is blank by default. (Do not include the value of
 PTA_SECRET_KEY in the string itself. The setting should be used only to encrypt the
 value sent.)
 
-I am not a Oracle RNT developer. I never develop anything for RNT before and one day I have been asked to write a php script which authenticate our customer between our site to RNT support site.
+I am not a Oracle RNT developer but I had to figure out this without any documentation in order to support our RNT based support pages.
 
-I did not know what Oracle RNT is even. So I searched the RNT support website on the google and I found it. However, there is no good source of documentation about available encryption options in RNT. Nobody provide me an access to get the developer site. I was having hard times to figure out.
-
-I was almost stuck. Then, I started to read many comments on RNT support pages. Finally, I was able to make this script worked so I am sharing this script if anyone needs it.
-
-Hope this helps :)
+I did some research on RNT support website and the google. I was able to make this script worked so I am sharing this script if anyone needs it...
